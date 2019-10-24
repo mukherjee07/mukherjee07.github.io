@@ -108,13 +108,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krishnendu Mukherjee"
+  name             : "Krishnendu Mukherjee, Graduate Student University of Notre Dame"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Computational material scientist"
-  location         : "South Bend Indiana"
-  email            :
+  location         : "South Bend, Indiana"
+  email            : "kmukherj@nd.edu"
   links:
-    - label: "Email"
+  -   label: "kmukherj@nd.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
