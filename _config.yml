@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Krishnendu Mukherjee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Krishnendu Mukherjee"
+name                     : "Krish Mukherjee"
 remote_theme              : "mmistakes/minimal-mistakes@4.16.6"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krishnendu Mukherjee, Graduate Student University of Notre Dame"
+  name             : "Krishnendu Mukherjee, Graduate Student, Chemical Engineering, University of Notre Dame"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Computational material scientist"
   location         : "South Bend, Indiana"
@@ -138,7 +138,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/MukherjeeNitdgp"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
