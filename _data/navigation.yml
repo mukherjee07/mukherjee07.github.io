@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/mukherjee07/
-    # main links
   - title: "My Research"
     url: /Research/
-  - title: "Skills_and_Awards"
+  - title: "Skills and Awards"
     url: /skills_and_awards/
   - title: "Resources"
     url: /resources/
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/mukherjee07/
+    # main links
