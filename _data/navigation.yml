@@ -1,14 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/mukherjee07/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    # main links
+  - title: "My Research"
+    url: /Research/
+  - title: "Skills_and_Awards"
+    url: /skills_and_awards/
+  - title: "Resources"
+    url: /resources/
