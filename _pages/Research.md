@@ -8,7 +8,7 @@ toc: true
 toc_label: "Project"
 toc_icon: "columns"
 ---
-## Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs (Under Peer Review)
+### Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs (Under Peer Review)
 * Designed a Active learning workflow to predict gas mixture adsorption in MOFs (CO<sub>2</sub>-CH<sub>4</sub>, Xe-Kr, and H<sub>2</sub>S-CO<sub>2</sub>).
 * Developed an accuracy-based protocol as a stoppage criteria for the Active learning on gas mixture
 adsorption in MOFs for a pressure-mole fraction and also for pressure-mole fraction-temperature phase
