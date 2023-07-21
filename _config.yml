@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Krishnendu Mukherjee Graduate Student Chemical Engineering University of Notre Dame"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Mukherjee_Krishnendu-5979.jpeg"
   bio              : "A Computational material scientist"
   location         : "Notre Dame, Indiana"
   email            : "kmukherj@nd.edu"
