@@ -1,12 +1,11 @@
 ---
-layout: single
-title: "My Research Projects"
-permalink: /research/
-date: 2023-7-21
-categories: pages
-toc: true
-toc_label: "Past Research"
-toc_icon: "columns"
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 **I am a Chemical Engineer with interest in computational materials discovery and process optimization using molecular modeling, statistics, and data science. 
