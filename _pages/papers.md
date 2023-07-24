@@ -16,7 +16,7 @@ first author)
 [[link]](https://doi.org/10.1021/acs.jced.2c00443)
 
 * Machine Learning and descriptor selection for the computational discovery of metal-organic frameworks.
-#K Mukherjee#, and YJ. Colón. Molecular Simulation. (2021)
+* K Mukherjee *, and YJ. Colón. Molecular Simulation. (2021)
 [[link]](https://doi.org/10.1080/08927022.2021.1916014)
 
 ## Under Peer review ##
