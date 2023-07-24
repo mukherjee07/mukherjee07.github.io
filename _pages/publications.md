@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Papers"
-permalink: /papers/
+title: "Publications"
+permalink: /publications/
 date: 2023-7-24
 categories: pages
 ---
