@@ -11,7 +11,7 @@ and YJ Colón. Molecular Systems Design and Engineering. (2022)
 [[link]](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00138h)
 
 * Understanding structure-property relationships of MOFs for gas sensing through Henry’s constants. J
-Gonzalez*, **K Mukherjee** and YJ Colón. Journal of Chemical Engineering and Data. (2022) (*shared
+Gonzalez, **K Mukherjee** and YJ Colón. Journal of Chemical Engineering and Data. (2022) (*shared
 first author)
 [[link]](https://doi.org/10.1021/acs.jced.2c00443)
 
