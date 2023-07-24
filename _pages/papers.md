@@ -7,7 +7,7 @@ categories: pages
 ---
 ## List of Paper Published ##
 * Sequential Design of Adsorption Simulations in Metal-Organic Frameworks. K Mukherjee, AW Dowling,
-and YJ Col\'{o}n. Molecular Systems Design and Engineering. (2022)
+and YJ Col'{o}n. Molecular Systems Design and Engineering. (2022)
 [[link]](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00138h)
 
 * Understanding structure-property relationships of MOFs for gas sensing through Henry’s constants. J
