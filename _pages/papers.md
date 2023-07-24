@@ -20,5 +20,5 @@ K Mukherjee, and YJ. Col \'{o}n. Molecular Simulation. (2021)
 [[link]](https://doi.org/10.1080/08927022.2021.1916014)
 
 ## Under Peer review ##
-* Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. K Mukherjee, Etinosa Osaro, and YJ Col\'{o}n (2023)
+* Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. K Mukherjee, Etinosa Osaro, and YJ Colón (2023)
 * Active learning for adsorption simulations: evaluation, criteria analysis, and recommendations for metal-organic frameworks. Etinosa Osaro, K Mukherjee, and YJ Col\'{o}n (2023)
