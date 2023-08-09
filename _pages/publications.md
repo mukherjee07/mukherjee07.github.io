@@ -19,6 +19,8 @@ first author)
 **K Mukherjee**, and YJ. Colón. ***Molecular Simulation***. (2021)
 [[link]](https://doi.org/10.1080/08927022.2021.1916014)
 
-## Under Peer review ##
 * Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. **K Mukherjee**, Etinosa Osaro, and YJ Colón (2023)
+[[link]]([https://doi.org/10.1080/08927022.2021.1916014](https://doi.org/10.1021/acs.iecr.3c01589))
+
+## Under Peer review ##
 * Active learning for adsorption simulations: evaluation, criteria analysis, and recommendations for metal-organic frameworks. Etinosa Osaro, **K Mukherjee**, and YJ Colón (2023)
