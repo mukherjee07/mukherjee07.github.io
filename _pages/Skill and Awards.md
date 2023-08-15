@@ -6,7 +6,14 @@ date: 2023-7-21
 categories: pages
 ---
 ## Programming ##
-* Python (48 months), BASH (48 months), MATLAB (6 months), Gnuplot (6 months), Github (12 months), Jupyter (4 months), C++ (4 months), Pyomo (1 months)
+* Python (48 months) {% include figure image_path="/assets/images/logos/Python.png" %}
+* BASH (48 months)  {% include figure image_path="/assets/images/logos/BASH_logo.png" %}
+* MATLAB (6 months) {% include figure image_path="/assets/images/logos/MATLAB.png" %}
+* Gnuplot (6 months)
+* Github (12 months) {% include figure image_path="/assets/images/logos/GitHub_Mark.png" %}
+* Jupyter (12 months)
+* C++ (4 months)
+* Pyomo (1 months)
 
 ## Simulation ##
 * ORCA (18 months), RASPA (24 months), LAMMPS (6 months), Gaussian (2 months), Zeo++ (2 months), Quantum-Espresso (2 months)
