@@ -15,12 +15,15 @@ categories: pages
 * Pyomo (1 months) ![My Image](/assets/images/logos/Pyomo_Logo.png){:width="25px"} ![My Image](/assets/images/brick.png){:width="40px"} 
 
 ## Simulation ##
-* ORCA (18 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
-* RASPA (24 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
-* LAMMPS (6 months), Gaussian (2 months), Zeo++ (2 months), Quantum-Espresso (2 months)
+* RASPA (24 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
+* * ORCA (18 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
+* LAMMPS (6 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
+* Gaussian (2 months)
+* Zeo++ (2 months)
+* Quantum-Espresso (2 months)
 
 ## Research ##
-* Monte Carlo simulations, Molecular Dynamics, Machine learning, Statistics, Bayesian optimization, Quantum chemistry calculations
+* Monte Carlo simulations, Molecular Dynamics, Machine learning, Statistics, Bayesian optimization, Quantum chemistry, Process engineering
 
 ## Awards ##
 * Notre Dame Graduate School Professional Development Award 2022.
