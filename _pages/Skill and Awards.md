@@ -6,7 +6,7 @@ date: 2023-7-21
 categories: pages
 ---
 ## Programming ##
-* Python (48 months) {% include figure image_path="/assets/images/logos/Python.png" height="100"%}
+* Python (48 months) ![My Image](/assets/images/logos/Python.png){:width="10%"}
 * BASH (48 months)  {% include figure image_path="/assets/images/logos/BASH_logo.png" %}
 * MATLAB (6 months) {% include figure image_path="/assets/images/logos/MATLAB.png" %}
 * Gnuplot (6 months)
