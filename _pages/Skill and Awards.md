@@ -11,7 +11,7 @@ categories: pages
 * MATLAB (6 months) ![My Image](/assets/images/logos/MATLAB.png){:width="35px"}
 * Gnuplot (6 months)
 * Github (12 months) ![My Image](/assets/images/logos/GitHub-Mark.png){:width="30px"}
-* Jupyter (12 months)
+* Jupyter (12 months) ![My Image](/assets/images/logos/Jupyter.png){:width="25px"}
 * C++ (4 months)
 * Pyomo (1 months)
 
