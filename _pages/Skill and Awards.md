@@ -10,7 +10,7 @@ categories: pages
 * BASH (48 months)  {% include figure image_path="/assets/images/logos/BASH_logo.png" %}
 * MATLAB (6 months) {% include figure image_path="/assets/images/logos/MATLAB.png" %}
 * Gnuplot (6 months)
-* Github (12 months) {% include figure image_path="/assets/images/logos/GitHub_Mark.png" %}
+* Github (12 months) {% include figure image_path="/assets/images/logos/GitHub-Mark.png" %}
 * Jupyter (12 months)
 * C++ (4 months)
 * Pyomo (1 months)
