@@ -17,3 +17,4 @@ adsorption in MOFs for a pressure-mole fraction and also for pressure-mole fract
 space (CO<sub>2</sub>-CH<sub>4</sub>, Xe-Kr, and H<sub>2</sub>S-CO<sub>2</sub>). For more details, visit the github page of the project.
 [[link]](https://github.com/mukherjee07/Active-Learning-for-multicomponent-adsorption-in-a-MOF/tree/main/)
 {% include figure image_path="/assets/images/AL_Outline_new.png" caption="Active learning workflow for modeling gas mixtures adsorption in a MOF" %}
+
