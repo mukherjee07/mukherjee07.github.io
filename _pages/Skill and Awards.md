@@ -20,8 +20,8 @@ categories: pages
 * RASPA (24 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
 * ORCA (18 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
 * LAMMPS (6 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
-* Gaussian (2 months) ![My Image](/assets/images/brick.png){:width="40px"}
-* Zeo++ (2 months) ![My Image](/assets/images/brick.png){:width="40px"}
+* Zeo++ (4 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
+* Gaussian (2 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
 * Quantum-Espresso (2 months) ![My Image](/assets/images/brick.png){:width="40px"}
 
 ## Research ##
