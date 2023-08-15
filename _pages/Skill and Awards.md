@@ -13,7 +13,8 @@ categories: pages
 * Jupyter (12 months) ![My Image](/assets/images/logos/Jupyter.png){:width="25px"} ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
 * C++ (4 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"} 
 * Pyomo (1 months) ![My Image](/assets/images/logos/Pyomo_Logo.png){:width="25px"} ![My Image](/assets/images/brick.png){:width="40px"} 
-***Pease Note the green bars shows a perceived degree of expertise on the skills. By 'Perceived' I meant the degree of expertise shown here carries a non-linear relationship with the time invested in the given skill.***
+
+***Pease Note the green bars shows a perceived degree of expertise on the skills, thus it carries a non-linear relationship with the time invested shown.***
 
 ## Simulation ##
 * RASPA (24 months) ![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}![My Image](/assets/images/brick.png){:width="40px"}
