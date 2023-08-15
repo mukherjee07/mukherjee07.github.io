@@ -6,11 +6,11 @@ date: 2023-7-21
 categories: pages
 ---
 ## Programming ##
-* Python (48 months) ![My Image](/assets/images/logos/Python.png){:width="100px"}
-* BASH (48 months)  {% include figure image_path="/assets/images/logos/BASH_logo.png" %}
-* MATLAB (6 months) {% include figure image_path="/assets/images/logos/MATLAB.png" %}
+* Python (48 months) ![My Image](/assets/images/logos/Python.png){:width="30px"}
+* BASH (48 months) ![My Image](/assets/images/logos/BASH_logo.png){:width="30px"}
+* MATLAB (6 months) ![My Image](/assets/images/logos/MATLAB.png){:width="30px"}
 * Gnuplot (6 months)
-* Github (12 months) {% include figure image_path="/assets/images/logos/GitHub-Mark.png" %}
+* Github (12 months) ![My Image](/assets/images/logos/GitHub-Mark.png){:width="30px"}
 * Jupyter (12 months)
 * C++ (4 months)
 * Pyomo (1 months)
