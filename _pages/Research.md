@@ -29,3 +29,8 @@ space (CO<sub>2</sub>-CH<sub>4</sub>, Xe-Kr, and H<sub>2</sub>S-CO<sub>2</sub>).
 [[Github]](https://github.com/JackTGonzalez/Sensor-Modeling)
 [[Publication]](https://pubs.acs.org/doi/abs/10.1021/acs.jced.2c00443)
 {% include figure image_path="/assets/images/TOC.png" caption="Computational workflow for discovery of sensor candidate materials from the CoRE database" %}
+
+### Machine learning and descriptor selection for the computational discovery of metal-organic frameworks (Review Project)
+* Through my literature review work, a paper was published which highlighted how machine learning and specific descriptors (chemical or physical features fed to a machine learning model) were used to design and discover new MOFs. The papers also includes many pedagogical introduction to the field of MOFs, Machine learning, feature selection, as well commentary on the future of the domain.
+[[Publication]](https://www.tandfonline.com/doi/full/10.1080/08927022.2021.1916014)
+{% include figure image_path="/assets/images/ML_workflow_final.png" caption="Typical computational workflow adopted for building ML model for MOF related systems" %}
