@@ -5,7 +5,7 @@ permalink: /publications/
 date: 2023-7-24
 categories: pages
 ---
-## List of Paper Published ##
+## List of Publications ##
 
 * Sequential Design of Adsorption Simulations in Metal-Organic Frameworks. **K Mukherjee**, AW Dowling,
 and YJ Colón. ***Molecular Systems Design and Engineering, RSC*** (2022)
