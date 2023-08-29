@@ -23,7 +23,5 @@ first author)
 * Active learning for adsorption simulations: evaluation, criteria analysis, and recommendations for metal-organic frameworks. Etinosa Osaro, **K Mukherjee**, and YJ Colón. ***Industrial and Engineering Chemistry Research, ACS*** (2023)
 [[link]](https://doi.org/10.1021/acs.iecr.3c01589)
 
-## Just Accepted ##
-
 * Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. **K Mukherjee**, Etinosa Osaro, and YJ Colón. ***Digital Discovery, RSC*** (2023)
 [[link]](https://doi.org/10.1039/D3DD00106G)
