@@ -16,6 +16,7 @@ My primary research lies in the intersection of computational simulation methods
 adsorption in MOFs for a pressure-mole fraction and also for pressure-mole fraction-temperature phase
 space (CO<sub>2</sub>-CH<sub>4</sub>, Xe-Kr, and H<sub>2</sub>S-CO<sub>2</sub>). For more details, visit the github page of the project.
 [[Github]](https://github.com/mukherjee07/Active-Learning-for-multicomponent-adsorption-in-a-MOF/tree/main/)
+[[Publication]](https://doi.org/10.1039/D3DD00106G)
 {% include figure image_path="/assets/images/AL_Outline_new.png" caption="Active learning workflow for modeling gas mixtures adsorption in a MOF" %}
 
 ### Sequential design of Pure component adsorption simulation in MOFs
