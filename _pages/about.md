@@ -12,5 +12,5 @@ redirect_from:
 * My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous structures. 
 
 * Below are some major themes that I have worked in the past 
-{% include figure image_path="/assets/images/routlook2.png" caption="An Outlook of Proffesional Experience" %}
+{% include figure image_path="/assets/images/Theme_2.png" caption="An Outlook of Proffesional Experience" %}
 
