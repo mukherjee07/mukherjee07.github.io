@@ -1,16 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hello"
+excerpt: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-* I am a Chemical Engineer with interest in computational materials discovery and process optimization using molecular modeling, statistics, and data science. 
+* I am a Chemical Engineer with interest in computational materials discovery and process optimization using molecular modeling, mathematical modeling, optimization, and machine learning. 
 
-* My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous structures. 
+* As a driven and detailed-oriented person, I like the idea of using computers to study physical systems and then discover materials/conditions/properties of interest. Experiments inherently carry many limitations (although we need them!) such as challeneges in creating a specific condition, synthesis of some material, scaling a method, or perhaps cost. Therefore simulations and mathematical modeling are amazing tools that helps us to fill this gap.
 
-* Below are some major themes that I have worked in the past 
+* My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous structures.
+
+* I have communicated my research work through speaking at conferences, publications in journals, internal meetings.
+
+* If I have to list my expertise, I'd start with molecular simulations of nanoporous systems, first-principle calculations of small molecules, machine learning models applied to materials, and mathematical modeling and optimization.
+
+* Below I have tried to summarize some major research topics and related skills I gained in the past.:
  {% include figure image_path="/assets/images/Theme_3.png" caption="An Outlook of Proffesional Experience" %}
 
