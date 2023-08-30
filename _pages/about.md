@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am a Chemical Engineer with interest in computational materials discovery and process optimization using molecular modeling, mathematical modeling, optimization, and machine learning. 
+* I am a Chemical Engineer with interest in materials discovery and process optimization using molecular modeling, mathematical modeling, optimization, and machine learning. 
 
-* As a driven and detailed-oriented person, I like the idea of using computers to study physical systems and then discover materials/conditions/properties of interest. Experiments inherently carry many limitations (although we certainly need them!) such as challenges in creating a specific condition, synthesis of some material, scaling a method, or perhaps cost. Therefore simulations and mathematical modeling are amazing tools that helps us to fill this gap.
+* As a driven and detailed-oriented person, I like the idea of using computers to study physical systems and then discover materials/conditions/properties of interest. Experiments inherently carry many limitations (although we certainly need them!) such as challenges in creating a specific condition, synthesis of some rare material, scaling a method to large feature-space, or perhaps cost. Therefore simulations and mathematical modeling are amazing tools that helps us to fill this gap.
 
 * My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous systems.
 
