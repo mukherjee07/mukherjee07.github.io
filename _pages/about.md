@@ -18,5 +18,5 @@ redirect_from:
 * If I have to list my expertise, I'd start with molecular simulations of nanoporous systems, first-principle calculations of small molecules, machine learning models applied to materials, and mathematical modeling and optimization.
 
 * Below I have tried to summarize some major research topics and related skills I gained in the past.:
- {% include figure image_path="/assets/images/Theme_3.png" caption="An Outlook of Proffesional Experience" %}
+ {% include figure image_path="/assets/images/Theme_4.png" caption="An Outlook of Proffesional Experience" %}
 
