@@ -104,10 +104,11 @@ analytics:
 
 
 # Site Author
+##, Current Position: PhD Candidate, Chemical Engineering, University of Notre Dame"
 author:
   name             : "Krishnendu Mukherjee "
   avatar           : "/assets/images/Mukherjee_Krishnendu-5979.jpeg"
-  bio              : "A Computational material scientist, Current Position: PhD Candidate, Chemical Engineering, University of Notre Dame"
+  bio              : "Computational scientist for material and energy systems"
   location         : "Notre Dame, Indiana"
   email            : "kmukherj@nd.edu"
   links:
