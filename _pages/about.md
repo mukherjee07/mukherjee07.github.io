@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "Hello"
+title: 
 excerpt: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<style>
+   /* Style for the title */
+    h1 {
+        color:  #336699; /* Change the title text color to blue */
+    }
+</style>
+
+<!-- Title of the page in blue -->
+<h1>Hello!</h1>
+
 * I am a Chemical Engineer with interest in materials discovery and process optimization using molecular modeling, mathematical modeling, optimization, and machine learning. 
 
 * As a driven and detailed-oriented person, I like the idea of using computers to study physical systems and then discover materials/conditions/properties of interest. Experiments inherently carry many limitations (although we certainly need them!) such as challenges in creating a specific condition, synthesis of some rare material, scaling a method to large feature-space, or perhaps cost. Therefore simulations and mathematical modeling are amazing tools that helps us to fill this gap.
