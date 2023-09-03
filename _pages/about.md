@@ -20,7 +20,7 @@ redirect_from:
 * I am a computational scientist with interest in materials discovery and process optimization using molecular modeling, mathematical modeling, and machine learning. 
 
 <h1>Motivations</h1>
-* I like using computers to study physical systems and then discover materials at certain conditions for properties/quantities of interest. Simulations and mathematical modeling (besides machine learning and other surrogating modeling methods) are amazing tools that helps us to conduct these experiments. Besides I like the elegance of mathematical models and the scalability and universality they provide.
+* Computers are very effective resource to study physical systems and then discover materials at certain conditions for properties/quantities of interest. Simulations and mathematical modeling (besides machine learning and other surrogating modeling methods) are amazing tools that helps us to conduct these experiments. Besides I like the elegance of mathematical models and the scalability and universality they provide.
 * Computation-based predictions are a great support pillar to real-life experiments. Besides in many cases, experiments may have limitations such as challenges in creating a specific condition, synthesis of some rare material, scaling a method to large feature-space, or perhaps cost. There the simulations or mathematical models can lead the way and fill the gap.
 
 <h1>Professional Summary</h1>
