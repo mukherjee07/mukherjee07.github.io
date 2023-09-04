@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /documents/
+permalink: /Documents/
 date: 2023-9-4
 categories: pages
 ---
