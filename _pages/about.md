@@ -29,7 +29,7 @@ redirect_from:
 
 * I have communicated my research work to a wide audience through speaking at conferences, publishing in journals, and of course many academic meetings.
 
-* If I have to list my expertise, here are they: molecular simulations of nanoporous systems, first-principle calculations of small molecules, machine learning models , mathematical modeling, and optimization. For more details, I encourge to visit my research and publications page.
+* My expertise is in this order: mechanistic modeling, machine learning models, mathematical modeling, and optimization, molecular simulations, first-principle calculations of small molecules. For more details, I encourge to visit my research and publications page.
 
 * Below I have tried to summarize some major research topics I have worked and related skills I gained:
  {% include figure image_path="/assets/images/Theme_5.png" caption="An Outlook of Proffesional Experience" %}
