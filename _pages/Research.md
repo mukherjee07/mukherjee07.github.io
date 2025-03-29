@@ -14,7 +14,7 @@ My primary research lies in the intersection of computational simulation methods
 * Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibriated water loadings at the desired operating conditions (in terms of temperature and pressure)
 * Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength q (when I say 'configuration' I am referring to arrangement of charges in a different order but of same magnitude) 
 * Analysis on local environment reveals a unique behaviour of this configuration in terms of host-adsorbate energies (coulombic part), hydrogen bonding, as well as orinetational order. For details, we encourge to read the ChemRxiv paper
-[[Github]](https://github.com/mukherjee07/Active-Learning-for-multicomponent-adsorption-in-a-MOF/tree/main/)
+[[Github]](https://github.com/mukherjee07/water_vapor_adsorption_modeling/tree/main/)
 [[ChemRxiv]](https://chemrxiv.org/engage/chemrxiv/article-details/67cb6e7a6dde43c908fa6f65)
 ![TOC](https://github.com/user-attachments/assets/bfb3935f-e10e-40c4-aa3f-f920372dceef)
 
