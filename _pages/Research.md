@@ -12,7 +12,7 @@ My primary research lies in the intersection of computational simulation methods
 
 ### Investigating the role of electrostatic distribution in tuning water vapor adsorption (currently in-peer review)
 * Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibriated water loadings at the desired operating conditions (in terms of temperature and pressure)
-* Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength/magnitude |q| (when I say 'configuration' I am referring to arrangement of charged sites in a different order/pattern ('configuration') but of same magnitude) 
+* Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength/magnitude q (when I say 'configuration' I am referring to arrangement of charged sites in a different order/pattern ('configuration') but of same magnitude) 
 * Analysis of local environment reveals a unique behaviour of this configuration in terms of host-adsorbate energies (coulombic part), hydrogen bonding, as well as orinetational order. For details, we encourge to refer to the ChemRxiv paper.
 [[Github]](https://github.com/mukherjee07/water_vapor_adsorption_modeling/tree/main/)
 [[ChemRxiv]](https://doi.org/10.26434/chemrxiv-2025-9w4ss-v2)
