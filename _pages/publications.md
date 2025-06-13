@@ -6,6 +6,9 @@ date: 2023-7-24
 categories: pages
 ---
 ## In Peer Review ##
+* Exploring data-centric machine learning and hybrid modeling for carbon dioxide stripping in mammalian cell cultures. **K Mukherjee**, C. Sirasitthichoke, R. Wheaton, and I. Shandil. (2025)
+
+## Provisionally Accepted ##
 
 * Expanding Cluster, Enhancing Adsorption: Investigating the Role of Electrostatic Configurations on Water Vapor Adsorption. **K Mukherjee**, McKayla Zastrow, and YJ Colón. (2025)
 [[link]](https://doi.org/10.26434/chemrxiv-2025-9w4ss-v2)
