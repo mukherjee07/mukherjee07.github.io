@@ -2,7 +2,7 @@
 layout: single
 title: "Research"
 permalink: /Research/
-date: 2025-3-29
+date: 2025-6-20
 categories: pages
 toc: true
 toc_label: "Project"
@@ -10,13 +10,13 @@ toc_icon: "columns"
 ---
 My primary research lies in the intersection of computational simulation methods, machine learning models, and material science. I am deeply interested in applying the right computational methodology to discover stucture-property relationships of material system. In my PhD journey, I have been mostly involved in gas-solid systems but I am open to investigate other systems as well. Some of the projects I have been involved are listed below (For publications please refer to the publication page):
 
-### Investigating the role of electrostatic distribution in tuning water vapor adsorption (currently in-peer review)
+### Investigating the role of electrostatic distribution in tuning water vapor adsorption (just accepted)
 * Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibriated water loadings at the desired operating conditions (in terms of temperature and pressure)
 * Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength/magnitude q (when I say 'configuration' I am referring to arrangement of charged sites in a different order/pattern ('configuration') but of same magnitude) 
 * Analysis of local environment reveals a unique behaviour of this configuration in terms of host-adsorbate energies (coulombic part), hydrogen bonding, as well as orinetational order. For details, we encourge to refer to the ChemRxiv paper.
 [[Github]](https://github.com/mukherjee07/water_vapor_adsorption_modeling/tree/main/)
 [[ChemRxiv]](https://doi.org/10.26434/chemrxiv-2025-9w4ss-v2)
-![TOC](https://github.com/user-attachments/assets/bfb3935f-e10e-40c4-aa3f-f920372dceef)
+![TOC_new](https://github.com/user-attachments/assets/e929c34a-9916-47cf-a223-102aa50f5e56)
 
 
 ### Active learning for efficient navigation of multi-component gas adsorption landscapes in a MOF
