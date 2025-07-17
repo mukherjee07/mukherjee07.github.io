@@ -8,12 +8,11 @@ categories: pages
 ## In Peer Review ##
 * Exploring data-centric machine learning and hybrid modeling for carbon dioxide stripping in mammalian cell cultures. **K Mukherjee**, C. Sirasitthichoke, R. Wheaton, and I. Shandil. (2025)
 
-## Just Accepted ##
+## List of Publications ##
 
 * Expanding Cluster, Enhancing Adsorption: Investigating the Role of Electrostatic Configurations on Water Vapor Adsorption. **K Mukherjee**, McKayla Zastrow, and YJ Colón. (2025)
-[[link]](https://doi.org/10.26434/chemrxiv-2025-9w4ss-v2)
+[[link]](https://doi.org/10.1021/acs.langmuir.5c01303)
 
-## List of Publications ##
 * Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. **K Mukherjee**, Etinosa Osaro, and YJ Colón. ***Digital Discovery, RSC*** (2023)
 [[link]](https://doi.org/10.1039/D3DD00106G)
 
