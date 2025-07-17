@@ -10,7 +10,7 @@ categories: pages
 
 ## List of Publications ##
 
-* Expanding Cluster, Enhancing Adsorption: Investigating the Role of Electrostatic Configurations on Water Vapor Adsorption. **K Mukherjee**, McKayla Zastrow, and YJ Colón. (2025)
+* Expanding Cluster, Enhancing Adsorption: Investigating the Role of Electrostatic Configurations on Water Vapor Adsorption. **K Mukherjee**, McKayla Zastrow, and YJ Colón. ***Langmuir, ACS*** (2025)
 [[link]](https://doi.org/10.1021/acs.langmuir.5c01303)
 
 * Active learning for efficient navigation of multi-component gas adsorption landscapes in MOFs. **K Mukherjee**, Etinosa Osaro, and YJ Colón. ***Digital Discovery, RSC*** (2023)
