@@ -25,7 +25,7 @@ redirect_from:
 
 <h1>Professional Summary</h1>
 
-* My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous systems. I am interested in discovering and optimizating materials, engineering systems for energy, and healthcare applications.
+* My current research at University of Notre Dame is focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and statistics to understand adsorption, selectivity, and other properties in nanoporous systems. I am interested in discovering and optimizing materials, engineering systems for energy, and healthcare applications.
 
 * I have communicated my research work to a wide audience through speaking at conferences, publishing in journals, and of course many academic meetings.
 
