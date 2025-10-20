@@ -108,11 +108,11 @@ analytics:
 author:
   name             : "Krishnendu Mukherjee "
   avatar           : "/assets/images/Mukherjee_Krishnendu-5979.jpeg"
-  bio              : "Computational scientist for material and energy systems"
-  location         : "Notre Dame, Indiana"
-  email            : "kmukherj@nd.edu"
+  bio              : "Computational Research Scholar in Chemical Engineering"
+  location         : "Austin, TX"
+  email            : "krishnendu.mukherjee@utexas.edu"
   links:
-    - label: "kmukherj@nd.edu"
+    - label: "krishnendu.mukherjee@utexas.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
