@@ -21,12 +21,12 @@ redirect_from:
 
 <h1>Motivations</h1>
 
-* Computers are very effective tool to study various physical systems and then discover materials at certain conditions for properties/quantities of interest. Simulations and mathematical modeling (besides machine learning and other surrogating modeling methods) are amazing tools that helps us to conduct these experiments. Besides I like the elegance of mathematical models and the scalability and universality they provide.
+* Computers are quite an effective tools for studying various physical systems at certain conditions for properties/quantities of interest. Simulations and mathematical modeling (besides machine learning and other surrogating modeling methods) are amazing tools that helps us to conduct these experiments. Besides I like the elegance of mathematical models and the scalability and universality they provide.
 * Computation-based predictions are a great support pillar to real-life experiments. Besides in many cases, experiments may have limitations such as challenges in creating a specific condition, synthesis of some rare material, scaling a method to large feature-space, or perhaps cost. For such cases, simulations or mathematical models can lead the way and fill the gap to guide investigations.
 
 <h1>Professional Summary</h1>
 
-* I am currently working as a postdoctoral research scholar at Ganesan Polymer Physics Lab at the University of Texas at Austin (under the supervision of Dr. Venkat Ganesan). My main project is development of differentiable molecular dynamics methods for gas separation using polymer membranes. Besides this I am also looking for coarse-graining strategies to reduce the sites and complexities to much smaller models.
+* I am currently working as a postdoctoral research scholar at Ganesan Polymer Physics Lab at the University of Texas at Austin (under the supervision of Dr. Venkat Ganesan). My main project is development of differentiable molecular dynamics methods for gas separation using polymer membranes. 
 
 * My past research at University of Notre Dame (under the supervision of Dr. Yamil J. Colón) was focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and theory to understand adsorption, selectivity, and other properties in nanoporous systems. I worked on various adsorption and sensing applications ranking from oxygen, nitrogen to hydrogen sulphide, water and other. I also worked on modeling multi-component adsorption and applied various theoretical models such as ideal adsorbed solution theory, real adsorbed solution theory etc.
 
