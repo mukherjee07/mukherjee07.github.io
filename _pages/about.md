@@ -26,9 +26,9 @@ redirect_from:
 
 <h1>Professional Summary</h1>
 
-* I am currently working as a postdoctoral research scholar at Ganesan Polymer Physics Lab at the University of Texas at Austin (under the supervision of Dr. Venkat Ganesan). My main project is development of differentiable molecular dynamics methods for gas separation using polymer membranes. 
+* I am currently working as a postdoctoral research scholar at Ganesan Polymer Physics Lab at the University of Texas at Austin (under Dr. Venkat Ganesan). My main project is development of differentiable molecular dynamics methods for gas separation using polymer membranes. 
 
-* My past research at University of Notre Dame (under the supervision of Dr. Yamil J. Colón) was focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and theory to understand adsorption, selectivity, and other properties in nanoporous systems. I worked on various adsorption and sensing applications ranking from oxygen, nitrogen to hydrogen sulphide, water and other. I also worked on modeling multi-component adsorption and applied various theoretical models such as ideal adsorbed solution theory, real adsorbed solution theory etc.
+* My past research at University of Notre Dame (under Dr. Yamil J. Colón) was focused on applying molecular simulations (monte carlo and molecular dynamics), machine learning, and theory to understand adsorption, selectivity, and other properties in nanoporous systems. I worked on various adsorption and sensing applications ranking from oxygen, nitrogen to hydrogen sulphide, water and other. I also worked on modeling multi-component adsorption and applied various theoretical models such as ideal adsorbed solution theory, real adsorbed solution theory etc.
 
 * I have communicated my research work to a wide audience through speaking at conferences, publishing in journals, and of course many academic meetings.
 
