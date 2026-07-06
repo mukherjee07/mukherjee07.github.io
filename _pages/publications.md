@@ -7,6 +7,7 @@ categories: pages
 ---
 ## In Peer Review ##
 * Exploring data-centric machine learning and hybrid modeling for carbon dioxide stripping in mammalian cell cultures. **K Mukherjee**, C. Sirasitthichoke, R. Wheaton, and I. Shandil. (2025)
+* Gas-Conditioned Message Passing Graph Neural Network for Permeability Prediction in Polymeric Membranes. **K. Mukherjee**, Z. Zhang, M. Alshammasi, M. G. Hashim, H. H. Naji, Z. A. Aithan, J. A. Badra, J. Yagoubi, H. B. Tuwailib, A. Hayek, and V. Ganesan. (2026)
 
 ## List of Publications ##
 
