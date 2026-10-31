@@ -2,6 +2,8 @@
 main:
   - title: "My Research"
     url: /Research/
+  - title: "Research Vision"
+    url: /vision/
   - title: "Skills and Awards"
     url: /Skills%20and%20Awards/
   - title: "Publications"
