@@ -16,9 +16,7 @@ My primary research lies in the intersection of computational simulation methods
 * Found that the kinetic descriptors (kinetic diameter and diffusion volume) transfer best to an unseen gas, and that a few labelled samples of the new gas, picked through an ensemble-based active learning, raise the R<sup>2</sup> to about 0.95 for all the six gases. For more details, visit the github page of the project.
 [[Github]](https://github.com/mukherjee07/gc_mpnn)
 [[Preprint]](https://doi.org/10.26434/chemrxiv.15010381/v2)
-<img width="1906" height="1694" alt="GC_MPNN_workflow-screenshot" src="https://github.com/user-attachments/assets/584cf88d-c0ab-4b80-9ad1-8f77a6a7260f" />
-
-
+<img width="1891" height="940" alt="GC_MPNN_workflow-screenshot" src="https://github.com/user-attachments/assets/a4448c6b-e51a-4bd7-8dac-b900f80a4136" />
 
 ### Investigating the role of electrostatic distribution/configuration in tuning water vapor adsorption
 * Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibrated water loadings at the desired operating conditions (in terms of temperature and pressure)
