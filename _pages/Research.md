@@ -8,7 +8,7 @@ toc: true
 toc_label: "Project"
 toc_icon: "columns"
 ---
-My primary research lies in the intersection of computational simulation methods, machine learning models, and material science. I am deeply interested in applying the right computational methodology to discover stucture-property relationships of material system. In my PhD journey, I have been mostly involved in gas-solid systems but I am open to investigate other systems as well. Some of the projects I have been involved are listed below (For publications please refer to the publication page):
+My primary research lies in the intersection of computational simulation methods, machine learning models, and material science. I am deeply interested in applying the right computational methodology to discover structure-property relationships of material systems. In my PhD journey, I have been mostly involved in gas-solid systems, and in my postdoctoral work I have extended this to gas transport in polymeric membranes, but I am open to investigate other systems as well. Some of the projects I have been involved are listed below (For publications please refer to the publication page):
 
 ### Gas-conditioned message passing neural network for predicting permeability in polymeric membranes (preprint, under peer review)
 * Conceived and developed the gas-conditioned message passing neural network, abbreviated as GC-MPNN, where the polymer repeat unit is encoded as a molecular graph and the gas is encoded separately through thermodynamic, kinetic, and electrostatic descriptors (when I say 'gas-conditioned' I am referring to a single model that takes the gas as an input, instead of training a separate model for every gas).
@@ -16,14 +16,14 @@ My primary research lies in the intersection of computational simulation methods
 * Found that the kinetic descriptors (kinetic diameter and diffusion volume) transfer best to an unseen gas, and that a few labelled samples of the new gas, picked through an ensemble-based active learning, raise the R<sup>2</sup> to about 0.95 for all the six gases. For more details, visit the github page of the project.
 [[Github]](https://github.com/mukherjee07/gc_mpnn)
 [[Preprint]](https://doi.org/10.26434/chemrxiv.15010381/v2)
-![TOC_gcmpnn]<img width="1906" height="1694" alt="GC_MPNN_workflow-screenshot" src="https://github.com/user-attachments/assets/584cf88d-c0ab-4b80-9ad1-8f77a6a7260f" />
+<img width="1906" height="1694" alt="GC_MPNN_workflow-screenshot" src="https://github.com/user-attachments/assets/584cf88d-c0ab-4b80-9ad1-8f77a6a7260f" />
 
 
 
 ### Investigating the role of electrostatic distribution/configuration in tuning water vapor adsorption
-* Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibriated water loadings at the desired operating conditions (in terms of temperature and pressure)
+* Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibrated water loadings at the desired operating conditions (in terms of temperature and pressure)
 * Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength/magnitude q (when I say 'configuration' I am referring to arrangement of charged sites in a different order/pattern ('configuration') but of same magnitude) 
-* Analysis of local environment reveals a unique behaviour of this configuration in terms of host-adsorbate energies (coulombic part), hydrogen bonding, as well as orinetational order. For details, we encourge to refer to the ChemRxiv paper.
+* Analysis of local environment reveals a unique behaviour of this configuration in terms of host-adsorbate energies (coulombic part), hydrogen bonding, as well as orientational order. For details, we encourage to refer to the published paper.
 [[Github]](https://github.com/mukherjee07/water_vapor_adsorption_modeling/tree/main/)
 [[Publication]](https://doi.org/10.1021/acs.langmuir.5c01303)
 ![TOC_new](https://github.com/user-attachments/assets/e929c34a-9916-47cf-a223-102aa50f5e56)
