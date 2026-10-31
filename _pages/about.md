@@ -35,4 +35,4 @@ redirect_from:
 * My expertise is in this order: molecular simulations, mechanistic modeling, machine learning models, mathematical modeling, and optimization, first-principle calculations of small molecules. For more details, I encourage you to visit my research and publications page.
 
 * Below I have tried to summarize some major research topics I have worked on and the related skills I gained:
- {% include figure image_path="/assets/images/Theme_5.png" caption="An Outlook of Professional Experience" %}
+ {% include figure image_path="/assets/images/Theme_6.png" caption="An Outlook of Professional Experience" %}
