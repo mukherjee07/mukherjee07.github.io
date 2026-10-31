@@ -10,6 +10,16 @@ toc_icon: "columns"
 ---
 My primary research lies in the intersection of computational simulation methods, machine learning models, and material science. I am deeply interested in applying the right computational methodology to discover stucture-property relationships of material system. In my PhD journey, I have been mostly involved in gas-solid systems but I am open to investigate other systems as well. Some of the projects I have been involved are listed below (For publications please refer to the publication page):
 
+### Gas-conditioned message passing neural network for predicting permeability in polymeric membranes (preprint, under peer review)
+* Conceived and developed the gas-conditioned message passing neural network, abbreviated as GC-MPNN, where the polymer repeat unit is encoded as a molecular graph and the gas is encoded separately through thermodynamic, kinetic, and electrostatic descriptors (when I say 'gas-conditioned' I am referring to a single model that takes the gas as an input, instead of training a separate model for every gas).
+* Demonstrated through a leave-one-gas-out validation that the model can predict permeability of a gas that was never seen during training, with R<sup>2</sup> of 0.86-0.96 for five of the six gases and a Pearson correlation of 0.77-0.89 for the unseen hydrocarbons.
+* Found that the kinetic descriptors (kinetic diameter and diffusion volume) transfer best to an unseen gas, and that a few labelled samples of the new gas, picked through an ensemble-based active learning, raise the R<sup>2</sup> to about 0.95 for all the six gases. For more details, visit the github page of the project.
+[[Github]](https://github.com/mukherjee07/gc_mpnn)
+[[Preprint]](https://doi.org/10.26434/chemrxiv.15010381/v2)
+![TOC_gcmpnn]<img width="1906" height="1694" alt="GC_MPNN_workflow-screenshot" src="https://github.com/user-attachments/assets/584cf88d-c0ab-4b80-9ad1-8f77a6a7260f" />
+
+
+
 ### Investigating the role of electrostatic distribution/configuration in tuning water vapor adsorption
 * Applied an advanced monte carlo protocol (continuous fractional component grand canonical monte carlo), abbreviated as CFC-GCMC to find equilibriated water loadings at the desired operating conditions (in terms of temperature and pressure)
 * Found a special case of an electrostatic configuration than can make the nanopore adsorb water at much lower pressure and this behaviour is proportional to charge strength/magnitude q (when I say 'configuration' I am referring to arrangement of charged sites in a different order/pattern ('configuration') but of same magnitude) 
