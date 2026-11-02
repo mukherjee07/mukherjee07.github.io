@@ -2,7 +2,7 @@
 layout: single
 title: "Research Vision"
 permalink: /vision/
-date: 2026-11-01
+date: 2026-11-02
 categories: pages
 toc: true
 toc_label: "Vision"
@@ -22,11 +22,11 @@ My research program is on the engineering and discovery of advanced separation m
 * Extend simulation protocols to chemically heterogeneous MOFs and water-containing mixtures, building on my CFC-GCMC work on water vapor adsorption
 * Explore electrostatic patterning as a design handle for water vapor harvesting and separation
 
-**Example project: CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption.** Natural-gas and biogas upgrading both come down to taking CO<sub>2</sub> out of CH<sub>4</sub>, and how well an adsorbent does this depends on the mixture composition. When CO<sub>2</sub> is dilute, it takes the strongest sites first: its quadrupole interacts with polar groups, open metal sites, or framework charges, while CH<sub>4</sub>, which has no dipole or quadrupole, feels almost only dispersion, so selectivity is highest here. As the CO<sub>2</sub> mole fraction rises those strong sites fill up, the remaining CO<sub>2</sub> goes to weaker sites where dispersion contacts with the pore walls dominate for both gases, and selectivity falls. At high loading, attraction between neighbouring CO<sub>2</sub> molecules (quadrupole–quadrupole, favouring T-shaped pairs) partly offsets that drop. I want to map this across the full range of CO<sub>2</sub> mole fraction with mixture GCMC, and decompose the energy into guest–host electrostatics, guest–host dispersion, and guest–guest terms, together with where each molecule sits, so that it is clear which interaction sets the selectivity at each composition.
+**Example project: CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption.** Natural-gas and biogas upgrading both come down to taking CO<sub>2</sub> out of CH<sub>4</sub>, and how an adsorbent does this depends on pressure as much as on composition. In my active learning work on Cu-BTC (Digital Discovery, 2023), CO<sub>2</sub> behaves very differently depending on how much of it is in the feed. When CO<sub>2</sub> is dilute, it takes the charged sites first and its uptake climbs quickly at low pressure, but as the pressure rises CH<sub>4</sub> begins to replace it, so the CO<sub>2</sub> uptake rises and then falls. When CO<sub>2</sub> is most of the feed, the pores keep filling with CO<sub>2</sub> and its uptake rises steadily. I want to map this across pressure, temperature, and composition with mixture GCMC, and decompose the energy into guest–host electrostatics, guest–host dispersion, and guest–guest terms, together with where each molecule sits, so that it is clear which interaction controls the uptake and selectivity in each regime.
 
 <figure>
-  <a href="/assets/images/vision_co2_ch4.png"><img src="/assets/images/vision_co2_ch4.png" alt="Illustrative CO2/CH4 mixture adsorption: CO2 and CH4 loadings and selectivity versus CO2 mole fraction, and the interactions that drive it: electrostatics, dispersion and CO2-CO2 attraction"></a>
-  <figcaption>CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption at 10 bar (illustrative dual-site model): selectivity is highest when CO<sub>2</sub> is dilute and the strong sites are free, and falls as they fill. Right: the interactions that drive it.</figcaption>
+  <a href="/assets/images/vision_co2_ch4.png"><img src="/assets/images/vision_co2_ch4.png" alt="CO2 uptake against pressure from a CO2/CH4 mixture in Cu-BTC at 240 K (mixture GCMC): at 11.6% CO2 it rises then falls as CH4 replaces CO2; at 98% CO2 it keeps rising; and the interactions that drive it: electrostatics, CO2-CO2 attraction and CH4 competition"></a>
+  <figcaption>CO<sub>2</sub> uptake from a CO<sub>2</sub>/CH<sub>4</sub> mixture in Cu-BTC at 240 K (mixture GCMC data from the Digital Discovery 2023 paper): with 11.6% CO<sub>2</sub> the uptake peaks near 30 bar and then falls as CH<sub>4</sub> begins to replace CO<sub>2</sub>; with 98% CO<sub>2</sub> it keeps rising. Right: the interactions that drive it.</figcaption>
 </figure>
 
 
@@ -45,12 +45,12 @@ My research program is on the engineering and discovery of advanced separation m
 * Separate confident interpolation from unreliable extrapolation (the leave-one-gas-out results showed that a model can rank an unseen gas correctly while getting its scale wrong, and I want the model itself to flag when this happens)
 * Build active-learning criteria on top of thermodynamically consistent models
 
-**Example project: a multi-fidelity surrogate.** Simulation data is cheap and plentiful but carries systematic bias (force fields are approximate), while experimental data is accurate but scarce. I want to build a single model that learns from both ('multi-fidelity' here means exactly this: one model trained together on cheap-but-approximate and scarce-but-accurate data), built on the probabilistic models above, and that uses its own uncertainty to decide where the next experiment or simulation should be spent.
+**Example project: a multi-fidelity surrogate.** Simulation data is cheap and plentiful but carries systematic bias (force fields are approximate), while experimental data is accurate but scarce. I want to build a single model that learns from both ('multi-fidelity' here means exactly this: one model trained together on cheap-but-approximate and scarce-but-accurate data), built on the probabilistic models above, and that passes its predictions and their uncertainty to an acquisition function that decides where the next experiment or simulation should be spent. Sampling where σ is largest is one choice of acquisition function; expected improvement, upper confidence bound, or a cost-aware rule are others.
 
 <figure class="half">
-  <a href="/assets/images/vision_multifidelity.png"><img src="/assets/images/vision_multifidelity.png" alt="Illustrative multi-fidelity surrogate with uncertainty band, simulation points, experiments and the next simulation or experiment"></a>
-  <a href="/assets/images/vision_data_fusion.png"><img src="/assets/images/vision_data_fusion.png" alt="Simulation and experiment fused by probabilistic models: GNN ensembles, GP regression, NGBoost, Bayesian neural networks and others"></a>
-  <figcaption>Left: a multi-fidelity surrogate with its uncertainty band (illustrative data). Right: probabilistic models (GNN ensembles, GP regression, NGBoost, Bayesian NNs and others) fusing simulation with experiment, and choosing the next simulation or experiment where σ is largest.</figcaption>
+  <a href="/assets/images/vision_multifidelity.png"><img src="/assets/images/vision_multifidelity.png" alt="Illustrative multi-fidelity surrogate with uncertainty band, simulation points and experiments, above an acquisition strip: expected improvement picks the next simulation or experiment, away from where sigma is largest"></a>
+  <a href="/assets/images/vision_data_fusion.png"><img src="/assets/images/vision_data_fusion.png" alt="Simulation and experiment fused by probabilistic models: GNN ensembles, GP regression, NGBoost, Bayesian neural networks and others; an acquisition function picks the next simulation or experiment"></a>
+  <figcaption>Left: a multi-fidelity surrogate with its uncertainty band (illustrative data); below it, an acquisition function (expected improvement here) picks the next point, which need not be where σ is largest. Right: probabilistic models (GNN ensembles, GP regression, NGBoost, Bayesian NNs and others) fusing simulation with experiment, with an acquisition function picking the next simulation or experiment.</figcaption>
 </figure>
 
 

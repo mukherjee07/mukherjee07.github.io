@@ -26,6 +26,8 @@ My primary research lies in the intersection of computational simulation methods
 [[Publication]](https://doi.org/10.1021/acs.langmuir.5c01303)
 ![TOC_new](https://github.com/user-attachments/assets/e929c34a-9916-47cf-a223-102aa50f5e56)
 
+{% include figure image_path="/assets/images/water_clusters_ICC.png" alt="Water clusters at saturation inside the AA, AR, AAR, Inner and Outer pores" caption="Water clusters at saturation (4.157 kPa, 300 K) inside the five electrostatic configurations (d = 11.76 Å): AA holds a larger, hexagonal cluster; the others hold pentagonal ones" %}
+
 
 ### Active learning for efficient navigation of multi-component gas adsorption landscapes in a MOF
 * Designed a Active learning workflow to predict gas mixture adsorption in MOFs (CO<sub>2</sub>-CH<sub>4</sub>, Xe-Kr, and H<sub>2</sub>S-CO<sub>2</sub>).
