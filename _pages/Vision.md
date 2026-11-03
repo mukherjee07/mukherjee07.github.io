@@ -2,7 +2,7 @@
 layout: single
 title: "Research Vision"
 permalink: /vision/
-date: 2026-11-02
+date: 2026-11-03
 categories: pages
 toc: true
 toc_label: "Vision"
@@ -22,11 +22,11 @@ My research program is on the engineering and discovery of advanced separation m
 * Extend simulation protocols to chemically heterogeneous MOFs and water-containing mixtures, building on my CFC-GCMC work on water vapor adsorption
 * Explore electrostatic patterning as a design handle for water vapor harvesting and separation
 
-**Example project: CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption.** Natural-gas and biogas upgrading both come down to taking CO<sub>2</sub> out of CH<sub>4</sub>, and how an adsorbent does this depends on pressure as much as on composition. In my active learning work on Cu-BTC (Digital Discovery, 2023), CO<sub>2</sub> behaves very differently depending on how much of it is in the feed. When CO<sub>2</sub> is dilute, it takes the charged sites first and its uptake climbs quickly at low pressure, but as the pressure rises CH<sub>4</sub> begins to replace it, so the CO<sub>2</sub> uptake rises and then falls. When CO<sub>2</sub> is most of the feed, the pores keep filling with CO<sub>2</sub> and its uptake rises steadily. I want to map this across pressure, temperature, and composition with mixture GCMC, and decompose the energy into guest–host electrostatics, guest–host dispersion, and guest–guest terms, together with where each molecule sits, so that it is clear which interaction controls the uptake and selectivity in each regime.
+**Example project: CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption.** Natural-gas and biogas upgrading both come down to taking CO<sub>2</sub> out of CH<sub>4</sub>, and how an adsorbent does this depends on pressure as much as on composition. In my active learning work on Cu-BTC (Digital Discovery, 2023), CO<sub>2</sub> behaves very differently depending on how much of it is in the feed. When CO<sub>2</sub> is dilute, it takes the charged sites first and its uptake climbs quickly at low pressure. As the pressure rises and the pores fill, CH<sub>4</sub> begins to replace it, roughly one molecule for another, so the CO<sub>2</sub> uptake rises and then falls; above about 140 bar the pores hold more CH<sub>4</sub> molecules than CO<sub>2</sub>, although CO<sub>2</sub> is still several times more concentrated in the pores than in the gas. When CO<sub>2</sub> is most of the feed, the pores fill with CO<sub>2</sub> at low pressure and stay full, with almost no CH<sub>4</sub>. I want to map this across pressure, temperature, and composition with mixture GCMC, and decompose the energy into guest–host electrostatics, guest–host dispersion, and guest–guest terms, together with where each molecule sits, so that it is clear which interaction controls the uptake and selectivity in each regime.
 
 <figure>
-  <a href="/assets/images/vision_co2_ch4.png"><img src="/assets/images/vision_co2_ch4.png" alt="CO2 uptake against pressure from a CO2/CH4 mixture in Cu-BTC at 240 K (mixture GCMC): at 11.6% CO2 it rises then falls as CH4 replaces CO2; at 98% CO2 it keeps rising; and the interactions that drive it: electrostatics, CO2-CO2 attraction and CH4 competition"></a>
-  <figcaption>CO<sub>2</sub> uptake from a CO<sub>2</sub>/CH<sub>4</sub> mixture in Cu-BTC at 240 K (mixture GCMC data from the Digital Discovery 2023 paper): with 11.6% CO<sub>2</sub> the uptake peaks near 30 bar and then falls as CH<sub>4</sub> begins to replace CO<sub>2</sub>; with 98% CO<sub>2</sub> it keeps rising. Right: the interactions that drive it.</figcaption>
+  <a href="/assets/images/vision_co2_ch4.png"><img src="/assets/images/vision_co2_ch4.png" alt="CO2 (solid) and CH4 (dashed) uptake in mmol/g against pressure from a CO2/CH4 mixture in Cu-BTC at 240 K (mixture GCMC): at 11.6% CO2 the CO2 uptake rises then falls as CH4 replaces it, and CH4 overtakes CO2 near 140 bar; at 98% CO2 the pores fill with CO2 and stay full while CH4 stays near zero; and the interactions that drive it: electrostatics, CO2-CO2 attraction and CH4 competition"></a>
+  <figcaption>CO<sub>2</sub> (solid) and CH<sub>4</sub> (dashed) uptake from a CO<sub>2</sub>/CH<sub>4</sub> mixture in Cu-BTC at 240 K, in mmol/g (mixture GCMC data from the Digital Discovery 2023 paper): with 11.6% CO<sub>2</sub>, the CO<sub>2</sub> uptake peaks near 30 bar and then falls as CH<sub>4</sub> replaces it, and CH<sub>4</sub> overtakes CO<sub>2</sub> near 140 bar; with 98% CO<sub>2</sub> the pores fill with CO<sub>2</sub> and stay full, with almost no CH<sub>4</sub>. Right: the interactions that drive it.</figcaption>
 </figure>
 
 
